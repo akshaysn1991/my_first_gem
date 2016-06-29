@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Akshay"]
   spec.email         = ["akshaysn1991@gmail.com"]
 
-  spec.summary       = %q{My first gemfile}
+  spec.summary       = %q{My first gem created}
   spec.description   = %q{My first gemfile}
   spec.homepage      = ""
   spec.license       = "MIT"
